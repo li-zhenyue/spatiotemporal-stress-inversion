@@ -24,3 +24,6 @@ How to Use the Program
     
     ⦁ Open SFI.m and run it section by section. Each section performs a specific task.
       Explanations are provided in the code for each section.
+
+Reference:
+Hardebeck, J. L., and A. J. Michael (2006). Damped regional‐scale stress inversions: Methodology and examples for southern California and the Coalinga aftershock sequence. J. Geophys. Res. Solid Earth 111, no. B11, B11S11. https://doi.org/10.1029/2005JB004144
