@@ -11,7 +11,7 @@ Compared with the method of Hardebeck and Michael (2006), it features:
     
     ⦁ This program: Groups earthquakes into stress regions using spatial clustering based on event locations.
 
-3. Stress Field Calculation
+2. Stress Field Calculation
    
     ⦁ Hardebeck & Michael (2006): Randomly selects one fault plane from the two nodal planes in each focal mechanism.
       
