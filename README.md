@@ -14,6 +14,7 @@ Compared with the method of Hardebeck and Michael (2006), it features:
 3. Stress Field Calculation
    
     ⦁ Hardebeck & Michael (2006): Randomly selects one fault plane from the two nodal planes in each focal mechanism.
+      
       This program: Uses an iterative approach, each time selecting the plane that is more prone to slip instability.
       
     ⦁ Unlike Hardebeck & Michael (2006), this program does not assume equal shear stress on all fault planes.
@@ -24,4 +25,4 @@ How to Use the Program
     
     ⦁ Open SFI.m and run it section by section. Each section performs a specific task.
     
-      Explanations are provided in the code for each section.
+      Explanations are provided in the code for each section.
